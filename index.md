@@ -1,6 +1,6 @@
-### Who am I?
+### Who I Am
 Welcome to my user page! My name is Diana and I am a second year computer science major at UCSD. I enjoy hiking with my dog (seen below), playing video games, and reading books. 
-![Yumi](/Users/dianakostina/Downloads/IMG_0441.jpg)
+![Yumi](images/yumi.jpg)
 First, I'd like to introduce one of my **favorite** quotes, which is a title of a book by Charles Swindoll:
 > Life Is 10% What Happens to You and 90% How You React
 
@@ -11,7 +11,7 @@ My favorite line of code is ___
 ```
 
 ## Links
-https://github.com/muhshroom
+[GitHub](https://github.com/muhshroom)
 
 ## Technical Skills
 1. Languages: C, Python, Java
@@ -21,11 +21,11 @@ https://github.com/muhshroom
 - [ ] get a job
 
 ## Table of Contents
-(#Who I am)
-(#Fun Facts)
-(#Links)
-(#Technical Skills)
-(#My To-do list)
+[Who I am](#who-i-am)
+[Fun Facts](#fun-facts)
+[Links](#links)
+[Technical Skills](#technical-skills)
+[My To-do list](#my-to-do-list)
 
 ## Relative Links
-index.md
+[A link that links back to this page, wow!](index.md)
